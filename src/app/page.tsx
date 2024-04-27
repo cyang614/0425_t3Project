@@ -1,4 +1,4 @@
-/**https://www.youtube.com/watch?v=d5x0JCZbAJs&t 10:47 */
+/**https://www.youtube.com/watch?v=d5x0JCZbAJs&t 24:21 */
 
 import Link from "next/link";
 
