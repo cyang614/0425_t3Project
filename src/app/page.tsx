@@ -1,4 +1,6 @@
-/**https://www.youtube.com/watch?v=d5x0JCZbAJs&t 24:21 */
+/**https://www.youtube.com/watch?v=d5x0JCZbAJs&t 31:23 
+ * pnpm run db:studio
+*/
 
 import Link from "next/link";
 
