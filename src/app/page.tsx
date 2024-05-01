@@ -1,4 +1,4 @@
-/**https://www.youtube.com/watch?v=d5x0JCZbAJs&t 1:17:18 
+/**https://www.youtube.com/watch?v=d5x0JCZbAJs&t 1:22:59 
  * pnpm run db:studio
  * pnpm dev
  * use vercel . Clerk . uploadthing
