@@ -1,4 +1,4 @@
-/**https://www.youtube.com/watch?v=d5x0JCZbAJs&t 1:37:30 
+/**https://www.youtube.com/watch?v=d5x0JCZbAJs&t 1:56:02 
  * pnpm run db:studio
  * pnpm dev
  * use vercel . Clerk . uploadthing
@@ -16,7 +16,7 @@ async function Images(){
   const images = await getMyImages();
 
   return(
-    <div className="flex justify-center flex-wrap gap-4">
+    <div className="flex justify-center flex-wrap gap-4 ">
     {
     images.map((image)=>(
       <div key={image.id} className="flex h-48 w-48 flex-col">
