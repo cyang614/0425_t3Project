@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/HoloLive/32014238-1ae2-405d-aef3-39d14b02053a/b1f9555e-40a0-40ca-a4bb-d82320082d6a/_apis/work/boardbadge/83cc16dc-d53b-4d52-b1af-fa44a1ed25d3)](https://dev.azure.com/HoloLive/32014238-1ae2-405d-aef3-39d14b02053a/_boards/board/t/b1f9555e-40a0-40ca-a4bb-d82320082d6a/Microsoft.RequirementCategory)
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
